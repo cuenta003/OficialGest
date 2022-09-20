@@ -1,0 +1,14 @@
+/Users/macbookpro/proyectos/Blazor/OficialGest/OficialGest/OficialGest.Models/bin/Debug/net6.0/OficialGest.Models.deps.json
+/Users/macbookpro/proyectos/Blazor/OficialGest/OficialGest/OficialGest.Models/bin/Debug/net6.0/OficialGest.Models.runtimeconfig.json
+/Users/macbookpro/proyectos/Blazor/OficialGest/OficialGest/OficialGest.Models/bin/Debug/net6.0/OficialGest.Models.dll
+/Users/macbookpro/proyectos/Blazor/OficialGest/OficialGest/OficialGest.Models/bin/Debug/net6.0/OficialGest.Models.pdb
+/Users/macbookpro/proyectos/Blazor/OficialGest/OficialGest/OficialGest.Models/obj/Debug/net6.0/OficialGest.Models.csproj.AssemblyReference.cache
+/Users/macbookpro/proyectos/Blazor/OficialGest/OficialGest/OficialGest.Models/obj/Debug/net6.0/OficialGest.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/proyectos/Blazor/OficialGest/OficialGest/OficialGest.Models/obj/Debug/net6.0/OficialGest.Models.AssemblyInfoInputs.cache
+/Users/macbookpro/proyectos/Blazor/OficialGest/OficialGest/OficialGest.Models/obj/Debug/net6.0/OficialGest.Models.AssemblyInfo.cs
+/Users/macbookpro/proyectos/Blazor/OficialGest/OficialGest/OficialGest.Models/obj/Debug/net6.0/OficialGest.Models.csproj.CoreCompileInputs.cache
+/Users/macbookpro/proyectos/Blazor/OficialGest/OficialGest/OficialGest.Models/obj/Debug/net6.0/OficialGest.Models.dll
+/Users/macbookpro/proyectos/Blazor/OficialGest/OficialGest/OficialGest.Models/obj/Debug/net6.0/refint/OficialGest.Models.dll
+/Users/macbookpro/proyectos/Blazor/OficialGest/OficialGest/OficialGest.Models/obj/Debug/net6.0/OficialGest.Models.pdb
+/Users/macbookpro/proyectos/Blazor/OficialGest/OficialGest/OficialGest.Models/obj/Debug/net6.0/OficialGest.Models.genruntimeconfig.cache
+/Users/macbookpro/proyectos/Blazor/OficialGest/OficialGest/OficialGest.Models/obj/Debug/net6.0/ref/OficialGest.Models.dll

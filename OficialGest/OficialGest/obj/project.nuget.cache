@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "I3Drq9Q8E6+QJnURpYFqgNZvxqmbgt9MHZ/2iXC/aOT4cI8XbBlDbbt+zblf1+DABDPsGisAtOvcOyGYK7pIZw==",
+  "success": true,
+  "projectFilePath": "/Users/macbookpro/proyectos/Blazor/OficialGest/OficialGest/OficialGest/OficialGest.csproj",
+  "expectedPackageFiles": [
+    "/Users/macbookpro/.nuget/packages/bootstrap/5.2.1/bootstrap.5.2.1.nupkg.sha512",
+    "/Users/macbookpro/.nuget/packages/jquery/3.6.0/jquery.3.6.0.nupkg.sha512",
+    "/Users/macbookpro/.nuget/packages/jquery.ui.combined/1.13.2/jquery.ui.combined.1.13.2.nupkg.sha512",
+    "/Users/macbookpro/.nuget/packages/jquery.validation/1.19.5/jquery.validation.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}

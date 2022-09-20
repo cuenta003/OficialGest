@@ -1,0 +1,69 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OficialGest/1.0.0": {
+        "dependencies": {
+          "bootstrap": "5.2.1",
+          "jQuery": "3.6.0",
+          "jQuery.UI.Combined": "1.13.2",
+          "jQuery.Validation": "1.19.5"
+        },
+        "runtime": {
+          "OficialGest.dll": {}
+        }
+      },
+      "bootstrap/5.2.1": {},
+      "jQuery/3.6.0": {},
+      "jQuery.UI.Combined/1.13.2": {
+        "dependencies": {
+          "jQuery": "3.6.0"
+        }
+      },
+      "jQuery.Validation/1.19.5": {
+        "dependencies": {
+          "jQuery": "3.6.0"
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OficialGest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "bootstrap/5.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hZdgEyJ4xwoNYWOJiS0HPYhe3f2Ja+Sm0s9PfWhNiKDVUys/SqqJOSdz0FPYS3E+AKmMhkk5jTcUJ/q0jWpNuw==",
+      "path": "bootstrap/5.2.1",
+      "hashPath": "bootstrap.5.2.1.nupkg.sha512"
+    },
+    "jQuery/3.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sSzCTDWn15waSMjDrP21jjgG1j1pwISLaKiVCClwU4XGAmuZt+FScLkdyRvh9ppoIxAW/tJtJBYei+3CAwFQ7g==",
+      "path": "jquery/3.6.0",
+      "hashPath": "jquery.3.6.0.nupkg.sha512"
+    },
+    "jQuery.UI.Combined/1.13.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-I6Fxd7HFMilY9/4S0fhVAoToE4FtB2uALft2PaKBplitOVXrth0MhqUlG+25VDNj4q/SrUdhudkZmVnaq8qWvA==",
+      "path": "jquery.ui.combined/1.13.2",
+      "hashPath": "jquery.ui.combined.1.13.2.nupkg.sha512"
+    },
+    "jQuery.Validation/1.19.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lBHoaszLpKYxiVCWwIoxdqSCrlqnW9jeVMinMQ0uNMFcl3rmY8XyeaerfGLRbkVRUzh/fM3APaKepEezrR5AcA==",
+      "path": "jquery.validation/1.19.5",
+      "hashPath": "jquery.validation.1.19.5.nupkg.sha512"
+    }
+  }
+}
